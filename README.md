@@ -4,7 +4,7 @@ Equipe:
 
 Thiago Paulino da Silva DEV
 
-Fabrício Santos Cavalcante DEV
+[Fabrício Santos Cavalcante](https://github.com/Kinnube) DEV
 
 Lívia Vieira Jacó DEV
 
