@@ -1,0 +1,46 @@
+Metodologia de levantamento de requisitos utilizado:
+Scrum:
+Equipe Scrum:
+
+André Takashi Prado Takamura - G97CJD1
+Thiago Paulino da Silva - R0158I6
+Fabrício Santos Cavalcante - R095991
+Lívia Vieira Jacó - G87FED0
+Tainara Lais Viana Mota - C92GED9
+Tayná da Silva - G9595H8
+
+Fase 1 – Product Backlog:
+Objetivo Geral do sistema:
+Criação de sistema de um suporte técnico inteligente, que utilize inteligência artificial para triagem inicial, categorização automática de chamados e sugestão de soluções, 
+visando otimizar o tempo de resposta e reduzir a sobrecarga da equipe de TI. Aplicando a LGDP aplicada a todos os dados pessoais tratados no sistema.
+Objetivos específicos:
+Desenvolver e implementar um portal de chamados integrado e eficiente, que possibilite. 
+Facilitar a comunicação entre usuários (clientes e atendentes).
+Oferecer recursos avançados de pesquisa e filtragem.
+Gerar relatórios detalhados para análise de desempenho.
+Garantir acessibilidade em dispositivos móveis.
+Assegurar a segurança dos dados e informações.
+Priorizar a escalabilidade e desempenho.
+Fornecer uma interface intuitiva e fácil de usar.
+Garantir confiabilidade e integridade dos dados.
+
+
+Requisitos funcionais e não funcionais:
+Requisitos:
+-Funcionais: 
+* Sistema deve permitir que os usuários (cliente ou funcionários) regristrem novos chamados com descrição do problema. 
+* Deve permitir que os atendentes visualizem, editem e alterem o status dos chamados (Aberto, em atendimento, resolvido ou fechado)
+* O sistema deve permitir que os usuários definam ou editem a prioridade do chamado ao registrá-lo ou ao alterá-lo. As opções de prioridade devem incluir pelo menos: Baixa, Média, Alta, Urgente.
+* Os usuários podem adicionar comentários dentro dos chamados para comunicar com outros membros da equipe (anotação privada) e interações com os usuários(clientes) 
+* O sistema deve manter um histórico completo dos chamados, incluindo todas as alterações e interações (comentários, mudanças de status, alterações na prioridade) de forma detalhada e auditável.
+
+-Não-Funcionais: 
+* O sistema deve permitir que os usuários pesquisem e filtrem chamados com base em diversos parâmetros, como: data de criação, status, prioridade, responsável, cliente, tipo de problema, entre outros.
+* o sistema deve gerar relatórios detalhados sobre os chamados (quantidade de chamados por período, tempo médio de resolução, número de chamados abertos/resolvidos)
+* O sistema deve ser escalável para acomodar um aumento no número de chamados e usuários, sem impacto significativo na performance.
+* O sistema deve ser completamente acessível em dispositivos móveis, incluindo smartphones e tablets, com uma interface responsiva que se adapte a diferentes tamanhos de tela e mantenha a usabilidade.
+* O sistema deve ser capaz de lidar com até X chamados simultâneos sem degradar a performance, respondendo às requisições em no máximo Y segundos.
+
+Fase 2 -  Sprint Planning:
+Fase 3 – Sprint Backlog:
+Fase 4  – Product Increment: 
