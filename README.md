@@ -32,7 +32,7 @@ Além disso, **garantimos conformidade com a LGPD**, assegurando a proteção do
 - [**Tainara Lais Viana Mota**](https://github.com/TainaraViana) `C92GED9`  
 
 🎯 **Scrum Master:**  
-- Tayná da Silva `G9595H8`  
+- [**Tayná da Silva**](https://github.com/TaynaSilva99) `G9595H8`  
 
 ---
 
