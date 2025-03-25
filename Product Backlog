@@ -1,65 +1,78 @@
-# Product Backlog
+# 📌 Product Backlog
 
-## Funcionalidades Prioritárias
+## 🚀 Funcionalidades Prioritárias
 
-1. **Cadastro de Chamados**
-   - Criar funcionalidade para registrar chamados.
-   - Permitir anexar arquivos aos chamados.
+### 1. Cadastro de Chamados
+- Permitir que usuários registrem chamados no sistema.
+- Implementar campo para descrição detalhada do chamado.
+- Permitir o anexo de arquivos (imagens, documentos, etc.).
+- Notificar o usuário sobre o status do chamado.
 
-2. **Gestão de Chamados**
-   - Criar funcionalidade para visualizar, editar e alterar status.
-   - Implementar categorias de chamados.
-   - Criar funcionalidade para atribuir chamados a atendentes.
+### 2. Gestão de Chamados
+- Criar painel para visualizar, editar e alterar status de chamados.
+- Implementar sistema de categorias para organização dos chamados.
+- Permitir a atribuição de chamados a atendentes responsáveis.
 
-3. **Prioridade do Chamado**
-   - Permitir que usuários definam prioridade ao criar chamados.
-   - Permitir que atendentes alterem prioridade.
+### 3. Prioridade do Chamado
+- Adicionar opção para definir prioridade ao criar chamados (Baixa, Média, Alta, Crítica).
+- Permitir que atendentes ajustem a prioridade do chamado conforme necessidade.
 
-4. **Comentários e Interação**
-   - Implementar sistema de comentários nos chamados.
-   - Permitir que usuários e atendentes interajam por meio de respostas.
+### 4. Comentários e Interação
+- Implementar sistema de comentários nos chamados para comunicação entre usuários e atendentes.
+- Exibir histórico de interações para transparência e acompanhamento.
 
-5. **Status de Chamados**
-   - Criar status configuráveis.
-   - Permitir que o administrador adicione/edite status.
+### 5. Status de Chamados
+- Criar status configuráveis (Ex: Aberto, Em andamento, Resolvido, Fechado).
+- Permitir que administradores gerenciem status.
 
-6. **Histórico de Chamados**
-   - Armazenar todas as mudanças feitas nos chamados.
-   - Criar interface para visualizar histórico.
+### 6. Histórico de Chamados
+- Registrar todas as mudanças realizadas nos chamados.
+- Criar interface para exibição do histórico.
 
-7. **Pesquisa e Filtros**
-   - Implementar busca e filtros por data, status, prioridade, etc.
+### 7. Pesquisa e Filtros
+- Implementar busca por palavra-chave, ID do chamado e usuário.
+- Adicionar filtros por data, status, prioridade e categoria.
 
-8. **Relatórios**
-   - Criar relatórios sobre chamados abertos/fechados, tempo médio de resolução, etc.
+### 8. Relatórios e Métricas
+- Gerar relatórios sobre chamados abertos, fechados e pendentes.
+- Calcular tempo médio de resolução dos chamados.
+- Exibir métricas de desempenho para equipe de suporte.
 
-9. **Usabilidade**
-   - Criar layout responsivo para desktop e mobile.
-   - Melhorar experiência do usuário com interface intuitiva.
+### 9. Usabilidade e Interface
+- Criar layout responsivo para desktop e dispositivos móveis.
+- Melhorar a experiência do usuário com interface intuitiva.
+- Implementar feedback visual para ações do usuário.
 
 ---
 
-# Sprint Backlog (Sprint 1)
+# 📅 Sprint Backlog (Sprint 1)
 
-## Itens Selecionados
+## 🎯 Objetivo
+Desenvolver a funcionalidade de cadastro e visualização de chamados, permitindo que os usuários registrem e acompanhem suas solicitações no sistema.
+
+## 📌 Itens Selecionados
 - Criar funcionalidade para registrar chamados.
 - Implementar sistema de anexos nos chamados.
 - Criar funcionalidade para visualizar chamados.
 - Implementar sistema de categorias nos chamados.
 - Criar funcionalidade para atribuir chamados a atendentes.
 
+## 🛠️ Tarefas e Estimativas
+| Tarefa | Estimativa |
+|--------|------------|
+| Criar modelo de banco de dados para chamados | 4h |
+| Criar interface de cadastro de chamados | 6h |
+| Implementar backend para criação de chamados | 6h |
+| Criar funcionalidade de upload de anexos | 6h |
+| Criar interface para visualizar chamados | 8h |
+| Implementar sistema de categorias | 6h |
+| Criar funcionalidade para atribuir chamados a atendentes | 8h |
+
 ---
 
-# Sprint Planning (Sprint 1)
+## 🔗 Referências e Contribuição
+- Este repositório está aberto para contribuições! Para sugerir melhorias ou relatar bugs, abra uma issue ou envie um pull request.
+- Leia o [Guia de Contribuição](CONTRIBUTING.md) para mais detalhes.
 
-## Objetivo
-Desenvolver o cadastro e a visualização de chamados para que o usuário possa registrar e acompanhar seus chamados no sistema.
+📢 *Dúvidas ou sugestões? Entre em contato pela aba de discussão!*
 
-## Tarefas e Estimativas
-1. Criar modelo de banco de dados para chamados (4h)
-2. Criar interface de cadastro de chamados (6h)
-3. Implementar backend para criação de chamados (6h)
-4. Criar funcionalidade de upload de anexos (6h)
-5. Criar interface para visualizar chamados (8h)
-6. Implementar sistema de categorias (6h)
-7. Criar funcionalidade para atribuir chamados a atendentes (8h)
