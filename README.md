@@ -10,4 +10,4 @@ Equipe:
 
 [Tainara Lais Viana Mota](https://github.com/TainaraViana) DEV/OP
 
-Tayná da Silva Scrum Master
+[Tayná da Silva](https://github.com/TaynaSilva99) Scrum Master
