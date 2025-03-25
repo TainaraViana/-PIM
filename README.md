@@ -2,7 +2,7 @@ Equipe:
 
 [André Takashi Prado Takamura](https://github.com/Yashatk) DEV
 
-Thiago Paulino da Silva DEV
+[Thiago Paulino da Silva](https://github.com/thiagooo9) DEV
 
 [Fabrício Santos Cavalcante](https://github.com/Kinnube) DEV
 
