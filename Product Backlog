@@ -1,46 +1,65 @@
-Metodologia de levantamento de requisitos utilizado:
-Scrum:
-Equipe Scrum:
+# Product Backlog
 
-André Takashi Prado Takamura - G97CJD1
-Thiago Paulino da Silva - R0158I6
-Fabrício Santos Cavalcante - R095991
-Lívia Vieira Jacó - G87FED0
-Tainara Lais Viana Mota - C92GED9
-Tayná da Silva - G9595H8
+## Funcionalidades Prioritárias
 
-Fase 1 – Product Backlog:
-Objetivo Geral do sistema:
-Criação de sistema de um suporte técnico inteligente, que utilize inteligência artificial para triagem inicial, categorização automática de chamados e sugestão de soluções, 
-visando otimizar o tempo de resposta e reduzir a sobrecarga da equipe de TI. Aplicando a LGDP aplicada a todos os dados pessoais tratados no sistema.
-Objetivos específicos:
-Desenvolver e implementar um portal de chamados integrado e eficiente, que possibilite. 
-Facilitar a comunicação entre usuários (clientes e atendentes).
-Oferecer recursos avançados de pesquisa e filtragem.
-Gerar relatórios detalhados para análise de desempenho.
-Garantir acessibilidade em dispositivos móveis.
-Assegurar a segurança dos dados e informações.
-Priorizar a escalabilidade e desempenho.
-Fornecer uma interface intuitiva e fácil de usar.
-Garantir confiabilidade e integridade dos dados.
+1. **Cadastro de Chamados**
+   - Criar funcionalidade para registrar chamados.
+   - Permitir anexar arquivos aos chamados.
 
+2. **Gestão de Chamados**
+   - Criar funcionalidade para visualizar, editar e alterar status.
+   - Implementar categorias de chamados.
+   - Criar funcionalidade para atribuir chamados a atendentes.
 
-Requisitos funcionais e não funcionais:
-Requisitos:
--Funcionais: 
-* Sistema deve permitir que os usuários (cliente ou funcionários) regristrem novos chamados com descrição do problema. 
-* Deve permitir que os atendentes visualizem, editem e alterem o status dos chamados (Aberto, em atendimento, resolvido ou fechado)
-* O sistema deve permitir que os usuários definam ou editem a prioridade do chamado ao registrá-lo ou ao alterá-lo. As opções de prioridade devem incluir pelo menos: Baixa, Média, Alta, Urgente.
-* Os usuários podem adicionar comentários dentro dos chamados para comunicar com outros membros da equipe (anotação privada) e interações com os usuários(clientes) 
-* O sistema deve manter um histórico completo dos chamados, incluindo todas as alterações e interações (comentários, mudanças de status, alterações na prioridade) de forma detalhada e auditável.
+3. **Prioridade do Chamado**
+   - Permitir que usuários definam prioridade ao criar chamados.
+   - Permitir que atendentes alterem prioridade.
 
--Não-Funcionais: 
-* O sistema deve permitir que os usuários pesquisem e filtrem chamados com base em diversos parâmetros, como: data de criação, status, prioridade, responsável, cliente, tipo de problema, entre outros.
-* o sistema deve gerar relatórios detalhados sobre os chamados (quantidade de chamados por período, tempo médio de resolução, número de chamados abertos/resolvidos)
-* O sistema deve ser escalável para acomodar um aumento no número de chamados e usuários, sem impacto significativo na performance.
-* O sistema deve ser completamente acessível em dispositivos móveis, incluindo smartphones e tablets, com uma interface responsiva que se adapte a diferentes tamanhos de tela e mantenha a usabilidade.
-* O sistema deve ser capaz de lidar com até X chamados simultâneos sem degradar a performance, respondendo às requisições em no máximo Y segundos.
+4. **Comentários e Interação**
+   - Implementar sistema de comentários nos chamados.
+   - Permitir que usuários e atendentes interajam por meio de respostas.
 
-Fase 2 -  Sprint Planning:
-Fase 3 – Sprint Backlog:
-Fase 4  – Product Increment: 
+5. **Status de Chamados**
+   - Criar status configuráveis.
+   - Permitir que o administrador adicione/edite status.
+
+6. **Histórico de Chamados**
+   - Armazenar todas as mudanças feitas nos chamados.
+   - Criar interface para visualizar histórico.
+
+7. **Pesquisa e Filtros**
+   - Implementar busca e filtros por data, status, prioridade, etc.
+
+8. **Relatórios**
+   - Criar relatórios sobre chamados abertos/fechados, tempo médio de resolução, etc.
+
+9. **Usabilidade**
+   - Criar layout responsivo para desktop e mobile.
+   - Melhorar experiência do usuário com interface intuitiva.
+
+---
+
+# Sprint Backlog (Sprint 1)
+
+## Itens Selecionados
+- Criar funcionalidade para registrar chamados.
+- Implementar sistema de anexos nos chamados.
+- Criar funcionalidade para visualizar chamados.
+- Implementar sistema de categorias nos chamados.
+- Criar funcionalidade para atribuir chamados a atendentes.
+
+---
+
+# Sprint Planning (Sprint 1)
+
+## Objetivo
+Desenvolver o cadastro e a visualização de chamados para que o usuário possa registrar e acompanhar seus chamados no sistema.
+
+## Tarefas e Estimativas
+1. Criar modelo de banco de dados para chamados (4h)
+2. Criar interface de cadastro de chamados (6h)
+3. Implementar backend para criação de chamados (6h)
+4. Criar funcionalidade de upload de anexos (6h)
+5. Criar interface para visualizar chamados (8h)
+6. Implementar sistema de categorias (6h)
+7. Criar funcionalidade para atribuir chamados a atendentes (8h)
