@@ -6,7 +6,7 @@ Thiago Paulino da Silva DEV
 
 [Fabrício Santos Cavalcante](https://github.com/Kinnube) DEV
 
-Lívia Vieira Jacó DEV
+[Lívia Vieira Jacó](https://github.com/JacoLCode) DEV
 
 [Tainara Lais Viana Mota](https://github.com/TainaraViana) DEV/OP
 
