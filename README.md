@@ -1,6 +1,6 @@
 Equipe:
 
-André Takashi Prado Takamura DEV
+[André Takashi Prado Takamura](https://github.com/Yashatk) DEV
 
 Thiago Paulino da Silva DEV
 
