@@ -8,6 +8,6 @@ Fabrício Santos Cavalcante DEV
 
 Lívia Vieira Jacó DEV
 
-[https://github.com/TainaraViana](https://github.com/TainaraViana) DEV/OP 
+[https://github.com/TainaraViana](https://github.com/TainaraViana) DEV/OP
 
 Tayná da Silva Scrum Master
