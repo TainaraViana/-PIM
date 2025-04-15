@@ -1,11 +1,10 @@
-# 🎯 Suporte Técnico Inteligente - Sistema de Chamados  
+# 🚀 TechFlow⚡ - Portal de Chamados com Inteligência Artificial
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-orange?style=for-the-badge" alt="Status do Projeto">
-  <img src="https://img.shields.io/github/languages/top/Yashatk/suporte-tecnico-inteligente?style=for-the-badge" alt="Linguagem Principal">
-  <img src="https://img.shields.io/github/license/Yashatk/suporte-tecnico-inteligente?style=for-the-badge" alt="Licença">
-</p>
+## 📌 Introdução
 
+O **TechFlow⚡** é um portal de chamados inteligente que visa otimizar o atendimento técnico e a comunicação entre clientes e atendentes. Com recursos modernos, o sistema permite abertura, acompanhamento e resolução de chamados de forma prática, intuitiva e segura. A integração com Inteligência Artificial amplia as capacidades do suporte, automatizando classificações, fornecendo insights e acelerando a resolução de problemas.
+
+---
 ## 🚀 Visão Geral  
 
 O **Suporte Técnico Inteligente** é um sistema desenvolvido para **otimizar o tempo de resposta** e **reduzir a sobrecarga da equipe de TI**.  
@@ -20,6 +19,19 @@ Além disso, **garantimos conformidade com a LGPD**, assegurando a proteção do
 
 ---
 
+## 🎯 Objetivos
+
+- Desenvolver e implementar um portal de chamados integrado e eficiente.
+- Facilitar a comunicação entre usuários (clientes e atendentes).
+- Oferecer recursos avançados de pesquisa e filtragem.
+- Gerar relatórios detalhados para análise de desempenho.
+- Garantir acessibilidade em dispositivos móveis.
+- Assegurar a segurança dos dados e informações.
+- Priorizar a escalabilidade e o desempenho.
+- Fornecer uma interface intuitiva e fácil de usar.
+- Garantir a confiabilidade e integridade dos dados.
+
+---
 ## 👥 Equipe Scrum  
 
 👨‍💻 **Desenvolvedores:**  
@@ -45,7 +57,24 @@ O projeto segue a **metodologia ágil Scrum** 🏆, garantindo:
 
 ---
 
-## 🔄 Fases do Projeto  
+## ✅ Requisitos Funcionais
+
+- Registro de chamados com descrição, prioridade e categoria.
+- Visualização e atualização de chamados por atendentes.
+- Alteração de status: Aberto, Em Atendimento, Resolvido, Fechado.
+- Comentários internos (privados) e externos (usuário).
+- Histórico completo e auditável de todas as alterações e interações.
+
+## 🚫 Requisitos Não Funcionais
+
+- Filtros avançados por data, status, prioridade, categoria, etc.
+- Relatórios de desempenho com gráficos e exportação.
+- Interface responsiva e acessível (mobile/tablet).
+- Escalabilidade para grandes volumes de usuários e chamados.
+- Segurança com autenticação robusta e criptografia de dados.
+
+---
+## 🔄 **Fases do Scrum**  
 
 ### 📌 **Fase 1 – Product Backlog**  
 📌 **Objetivo Geral**  
@@ -58,26 +87,6 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 ✅ Gerar **relatórios detalhados** de desempenho 📊  
 ✅ Garantir **segurança, escalabilidade e acessibilidade**  
 
----
-
-## ⚙ **Requisitos do Sistema**  
-
-### ✅ **Requisitos Funcionais**  
-✔ Registro de chamados com **descrição detalhada**  
-✔ Edição e alteração de status (`Aberto`, `Em Atendimento`, `Resolvido`, `Fechado`)  
-✔ Definição de prioridade (**Baixa, Média, Alta, Urgente** 🔥)  
-✔ Histórico **completo e auditável** das interações  
-
-### 🔐 **Requisitos Não Funcionais**  
-✔ Pesquisa e **filtros avançados** 🔎  
-✔ Relatórios detalhados sobre **tempo de resposta, quantidade de chamados, eficiência do atendimento** 📊  
-✔ Escalabilidade para um **alto volume de usuários simultâneos** 🚀  
-✔ Interface responsiva para **dispositivos móveis** 📱  
-
----
-
-## 🔄 **Fases do Scrum**  
-
 ### 🛠️ **Fase 2 – Sprint Planning**  
 🔹 Planejamento e priorização das funcionalidades essenciais  
 
@@ -89,6 +98,72 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 
 ---
 
+## 🗂️ Backlog do Produto
+
+### Épico 1: Cadastro e Gerenciamento de Chamados
+
+- US01: Registro de chamado com campos obrigatórios.
+- US02: Visualização geral dos chamados.
+- US03: Atualização de status do chamado.
+- US04: Comentários internos (privados).
+- US05: Comentários externos (usuário-cliente).
+
+### Épico 2: Priorização, Classificação e Categorias
+
+- US06: Definição e edição da prioridade.
+- US07: Classificação automática de chamados (IA).
+
+### Épico 3: Pesquisa e Filtros Avançados
+
+- US08: Busca por palavra-chave ou ID.
+- US09: Filtros múltiplos por prioridade, status, data, etc.
+
+### Épico 4: Histórico e Auditoria
+
+- US10: Log completo de alterações em chamados.
+
+### Épico 5: Relatórios e Métricas
+
+- US11: Relatórios de chamados abertos/fechados por período.
+- US12: Exportação de relatórios em PDF/CSV.
+
+### Épico 6: Interface e Acessibilidade
+
+- US13: Interface adaptada para dispositivos móveis.
+- US14: Suporte à acessibilidade (leitores de tela).
+
+### Épico 7: Segurança e Conta
+
+- US15: Recuperação de senha via e-mail.
+- US16: Proteção de dados com autenticação e criptografia.
+
+### Épico 8: Inteligência Artificial e Otimizações
+
+- US17: Classificação de chamados por urgência (IA).
+- US18: Sugestões automáticas de soluções.
+
+---
+
+## 📅 SCRUM- Sprints
+| Sprint   | Período       | Destaques                                      |
+|----------|---------------|------------------------------------------------|
+| Sprint 1 | 17/03 - 25/03 | Setup, autenticação, cadastro de chamados      |
+| Sprint 2 | 26/03 - 03/04 | Gerenciamento, status, comentários              |
+| Sprint 3 | 04/04 - 12/04 | Pesquisa, filtros e painéis                     |
+| Sprint 4 | 13/04 - 21/04 | Classificação automática (IA)                   |
+| Sprint 5 | 22/04 - 30/04 | Segurança e recuperação de senha                |
+| Sprint 6 | 01/05 - 09/05 | Relatórios e métricas                           |
+| Sprint 7 | 10/05 - 16/05 | Interface responsiva e acessível                |
+| Sprint 8 | 17/05 - 23/05 | Testes finais, correções e deploy               |
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Banco de Dados**: PostgreSQL ou MongoDB  
+- **Design de Interface**: Figma  
+- **
+---
 ## 🎮 Como Usar  
 
 📌 **1. Registro de Chamados**  
@@ -107,4 +182,3 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 
 
 📩 **Dúvidas ou sugestões?** Entre em contato com a equipe! 🚀  
- 
