@@ -90,8 +90,6 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 ### 🛠️ **Fase 2 – Sprint Planning**  
 🔹 Planejamento e priorização das funcionalidades essenciais  
 
-## 🗓️ Sprint Planning
-
 ### Sprint 1: Fundação do Portal de Chamados
 
 **Objetivo da Sprint:** Criar a funcionalidade básica de registro e visualização de chamados.
@@ -173,8 +171,6 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 
 ### 🎯 **Fase 3 – Sprint Backlog**  
 🔹 Distribuição das tarefas entre os membros da equipe  
-
-# 📅 SCRUM - Sprints
 
 | Sprint   | Período        | Destaques                                  | Responsável | Status        |
 |----------|----------------|--------------------------------------------|-------------|---------------|
