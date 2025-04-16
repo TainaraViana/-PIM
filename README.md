@@ -90,6 +90,87 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 ### 🛠️ **Fase 2 – Sprint Planning**  
 🔹 Planejamento e priorização das funcionalidades essenciais  
 
+## 🗓️ Sprint Planning
+
+### Sprint 1: Fundação do Portal de Chamados
+
+**Objetivo da Sprint:** Criar a funcionalidade básica de registro e visualização de chamados.
+
+| Item (US) | Descrição                               | Estimativa | Responsável | Status       | Prioridade |
+|-----------|-------------------------------------------|------------|-------------|--------------|------------|
+| US01      | Registro de chamado com campos obrigatórios | 8 SP       | [Tainara] | A Fazer      | Alta       |
+| US02      | Visualização geral dos chamados           | 13 SP      | [Tainara] | A Fazer      | Alta       |
+| Setup     | Configuração inicial do projeto           | 5 SP       | [Tainara] | A Fazer      | Alta       |
+| Auth      | Implementação básica de autenticação      | 8 SP       | [Tainara] | A Fazer      | Média      |
+
+### Sprint 2: Interação e Status dos Chamados
+
+**Objetivo da Sprint:** Permitir a interação básica com os chamados através da atualização de status e comentários internos.
+
+| Item (US) | Descrição                        | Estimativa | Responsável | Status       | Prioridade |
+|-----------|-----------------------------------|------------|-------------|--------------|------------|
+| US03      | Atualização de status do chamado  | 8 SP       | [Takashi] | A Fazer      | Alta       |
+| US04      | Comentários internos (privados)   | 13 SP      | [Takashi] | A Fazer      | Alta       |
+| Modelagem | Refinamento inicial do modelo de dados | 5 SP       | [Takashi] | A Fazer      | Média      |
+
+### Sprint 3: Comunicação Cliente e Priorização
+
+**Objetivo da Sprint:** Adicionar a comunicação com o cliente e a funcionalidade de definição de prioridade.
+
+| Item (US) | Descrição                             | Estimativa | Responsável | Status       | Prioridade |
+|-----------|-----------------------------------------|------------|-------------|--------------|------------|
+| US05      | Comentários externos (usuário-cliente)  | 13 SP      | [Lívia] | A Fazer      | Alta       |
+| US06      | Definição e edição da prioridade        | 5 SP       | [Lívia] | A Fazer      | Média      |
+| UI/UX       | Melhorias na interface de chamados      | 8 SP       | [Lívia] | A Fazer      | Média      |
+
+### Sprint 4: Busca e Início da Classificação
+
+**Objetivo da Sprint:** Implementar a busca básica e iniciar a base para a classificação automática.
+
+| Item (US) | Descrição                        | Estimativa | Responsável | Status       | Prioridade |
+|-----------|-----------------------------------|------------|-------------|--------------|------------|
+| US08      | Busca por palavra-chave ou ID     | 8 SP       | [Tayna] | A Fazer      | Alta       |
+| US07 (Início) | Investigação e prototipagem da IA | 8 SP       | [Tayna] | A Fazer      | Média      |
+| Testes      | Criação de testes de integração básicos | 5 SP       | [Tayna] | A Fazer      | Média      |
+
+### Sprint 5: Filtros Avançados e Classificação (IA)
+
+**Objetivo da Sprint:** Adicionar filtros avançados e implementar a classificação automática de chamados.
+
+| Item (US) | Descrição                                         | Estimativa | Responsável | Status       | Prioridade |
+|-----------|---------------------------------------------------|------------|-------------|--------------|------------|
+| US09      | Filtros múltiplos por prioridade, status, data, etc. | 13 SP      | [Fabrício] | A Fazer      | Alta       |
+| US07 (Fim)  | Implementação da classificação automática (IA)    | 13 SP      | [Fabrício] | A Fazer      | Alta       |
+
+### Sprint 6: Histórico e Relatórios Iniciais
+
+**Objetivo da Sprint:** Implementar o histórico de alterações e os relatórios básicos.
+
+| Item (US) | Descrição                                      | Estimativa | Responsável | Status       | Prioridade |
+|-----------|--------------------------------------------------|------------|-------------|--------------|------------|
+| US10      | Log completo de alterações em chamados          | 8 SP       | [Tainara] | A Fazer      | Alta       |
+| US11      | Relatórios de chamados abertos/fechados por período | 13 SP      | [Tainara] | A Fazer      | Média      |
+
+### Sprint 7: Exportação de Relatórios e Interface Responsiva
+
+**Objetivo da Sprint:** Permitir a exportação de relatórios e adaptar a interface para dispositivos móveis.
+
+| Item (US) | Descrição                                  | Estimativa | Responsável | Status       | Prioridade |
+|-----------|----------------------------------------------|------------|-------------|--------------|------------|
+| US12      | Exportação de relatórios em PDF/CSV         | 8 SP       | [Takashi] | A Fazer      | Alta       |
+| US13      | Interface adaptada para dispositivos móveis | 13 SP      | [Takashi] | A Fazer      | Média      |
+
+### Sprint 8: Acessibilidade, Segurança e Otimizações Iniciais
+
+**Objetivo da Sprint:** Focar em acessibilidade, segurança básica e as primeiras otimizações com IA.
+
+| Item (US) | Descrição                                         | Estimativa | Responsável | Status       | Prioridade |
+|-----------|---------------------------------------------------|------------|-------------|--------------|------------|
+| US14      | Suporte à acessibilidade (leitores de tela)      | 8 SP       | [Lívia] | A Fazer      | Alta       |
+| US15      | Recuperação de senha via e-mail                   | 5 SP       | [Lívia] | A Fazer      | Média      |
+| US17 (Início) | Investigação da classificação por urgência (IA) | 8 SP       | [Lívia] | A Fazer      | Média      |
+
+
 ### 🎯 **Fase 3 – Sprint Backlog**  
 🔹 Distribuição das tarefas entre os membros da equipe  
 
