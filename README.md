@@ -93,6 +93,19 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 ### 🎯 **Fase 3 – Sprint Backlog**  
 🔹 Distribuição das tarefas entre os membros da equipe  
 
+# 📅 SCRUM - Sprints
+
+| Sprint   | Período        | Destaques                                  | Responsável | Status        |
+|----------|----------------|--------------------------------------------|-------------|---------------|
+| Sprint 1 | 17/03 - 25/03 | Setup, autenticação, cadastro de chamados  |Tainara       | Em andamento  |
+| Sprint 2 | 26/03 - 03/04 | Gerenciamento, status, comentários         |Takashi       | Em andamento  |
+| Sprint 3 | 04/04 - 12/04 | Pesquisa, filtros e painéis                |Lívia         |Pendente       |
+| Sprint 4 | 13/04 - 21/04 | Classificação automática (IA)              |Tayna         |Pendente       |
+| Sprint 5 | 22/04 - 30/04 | Segurança e recuperação de senha           |Fabrício      |Pendente       |
+| Sprint 6 | 01/05 - 09/05 | Relatórios e métricas                      |Tainara       |Pendente       |
+| Sprint 7 | 10/05 - 16/05 | Interface responsiva e acessível           |Takashi       |Pendente       |
+| Sprint 8 | 17/05 - 23/05 | Testes finais, correções e deploy          |Lívia         |Pendente       |
+
 ### 📦 **Fase 4 – Product Increment**  
 🔹 Entrega da **versão funcional** com melhorias contínuas  
 
@@ -144,19 +157,6 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 
 ---
 
-## 📅 SCRUM- Sprints
-| Sprint   | Período       | Destaques                                      |
-|----------|---------------|------------------------------------------------|
-| Sprint 1 | 17/03 - 25/03 | Setup, autenticação, cadastro de chamados      |
-| Sprint 2 | 26/03 - 03/04 | Gerenciamento, status, comentários              |
-| Sprint 3 | 04/04 - 12/04 | Pesquisa, filtros e painéis                     |
-| Sprint 4 | 13/04 - 21/04 | Classificação automática (IA)                   |
-| Sprint 5 | 22/04 - 30/04 | Segurança e recuperação de senha                |
-| Sprint 6 | 01/05 - 09/05 | Relatórios e métricas                           |
-| Sprint 7 | 10/05 - 16/05 | Interface responsiva e acessível                |
-| Sprint 8 | 17/05 - 23/05 | Testes finais, correções e deploy               |
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 
