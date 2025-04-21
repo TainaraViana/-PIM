@@ -107,8 +107,8 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 
 | Item (US) | Descrição                        | Estimativa | Responsável | Status       | Prioridade |
 |-----------|-----------------------------------|------------|-------------|--------------|------------|
-| US03      | Atualização de status do chamado  | 8 SP       | [Takashi] | A Fazer      | Alta       |
-| US04      | Comentários internos (privados)   | 13 SP      | [Takashi] | A Fazer      | Alta       |
+| US03      | Atualização de status do chamado  | 8 SP       | [Takashi] | Aguardando Aprovação      | Alta       |
+| US04      | Comentários internos (privados)   | 13 SP      | [Takashi] | Aguardando Aprovação      | Alta       |
 | Modelagem | Refinamento inicial do modelo de dados | 5 SP       | [Takashi] | A Fazer      | Média      |
 
 ### Sprint 3: Comunicação Cliente e Priorização
