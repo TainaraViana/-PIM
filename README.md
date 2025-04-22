@@ -163,9 +163,9 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 
 | Item (US) | Descrição                                         | Estimativa | Responsável | Status       | Prioridade |
 |-----------|---------------------------------------------------|------------|-------------|--------------|------------|
-| US15      |  Recuperação de senha via e-mail      | 8 SP       | [Lívia] | A Fazer      | Alta       |
-| US16     | Proteção de dados com autenticação e criptografia | 5 SP       | [Lívia] | A Fazer      | Média      |
-| US18  | Sugestões automáticas de soluções | 8 SP       | [Lívia] | A Fazer      | Média      |
+| US14      |  Recuperação de senha via e-mail      | 8 SP       | [Lívia] | A Fazer      | Alta       |
+| US15     | Proteção de dados com autenticação e criptografia | 5 SP       | [Lívia] | A Fazer      | Média      |
+| US16  | Sugestões automáticas de soluções | 8 SP       | [Lívia] | A Fazer      | Média      |
 
 
 ### 🎯 **Fase 3 – Sprint Backlog**  
