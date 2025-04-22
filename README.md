@@ -108,7 +108,7 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 | Item (US) | Descrição                        | Estimativa | Responsável | Status       | Prioridade |
 |-----------|-----------------------------------|------------|-------------|--------------|------------|
 | US03      | Atualização de status do chamado  | 8 SP       | [Takashi] | Aguardando Aprovação      | Alta       |
-| US04      | Comentários internos (privados)   | 13 SP      | [Takashi] | Aguardando Aprovação      | Alta       |
+| US04      | Comentários internos (privados)  e externos (usuário-cliente) | 13 SP      | [Takashi] | Aguardando Aprovação      | Alta       |
 | Modelagem | Refinamento inicial do modelo de dados | 5 SP       | [Takashi] | A Fazer      | Média      |
 
 ### Sprint 3: Comunicação Cliente e Priorização
@@ -117,9 +117,8 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 
 | Item (US) | Descrição                             | Estimativa | Responsável | Status       | Prioridade |
 |-----------|-----------------------------------------|------------|-------------|--------------|------------|
-| US05      | Comentários externos (usuário-cliente)  | 13 SP      | [Lívia] | A Fazer      | Alta       |
-| US06      | Definição e edição da prioridade        | 5 SP       | [Lívia] | A Fazer      | Média      |
-| UI/UX       | Melhorias na interface de chamados      | 8 SP       | [Lívia] | A Fazer      | Média      |
+| US06      | Definição e edição da prioridade        | 5 SP       | [Thiago]| A Fazer      | Média      |
+| UI/UX     | Melhorias na interface de chamados      | 8 SP       | [Lívia] | A Fazer      | Média      |
 
 ### Sprint 4: Busca e Início da Classificação
 
@@ -156,7 +155,7 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 | Item (US) | Descrição                                  | Estimativa | Responsável | Status       | Prioridade |
 |-----------|----------------------------------------------|------------|-------------|--------------|------------|
 | US12      | Exportação de relatórios em PDF/CSV         | 8 SP       | [Takashi] | A Fazer      | Alta       |
-| US13      | Interface adaptada para dispositivos móveis | 13 SP      | [Takashi] | A Fazer      | Média      |
+| US13      | Interface gráfica | 13 SP      | [Takashi] | A Fazer      | Média      |
 
 ### Sprint 8: Acessibilidade, Segurança e Otimizações Iniciais
 
@@ -164,9 +163,9 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 
 | Item (US) | Descrição                                         | Estimativa | Responsável | Status       | Prioridade |
 |-----------|---------------------------------------------------|------------|-------------|--------------|------------|
-| US14      | Suporte à acessibilidade (leitores de tela)      | 8 SP       | [Lívia] | A Fazer      | Alta       |
-| US15      | Recuperação de senha via e-mail                   | 5 SP       | [Lívia] | A Fazer      | Média      |
-| US17 (Início) | Investigação da classificação por urgência (IA) | 8 SP       | [Lívia] | A Fazer      | Média      |
+| US15      |  Recuperação de senha via e-mail      | 8 SP       | [Lívia] | A Fazer      | Alta       |
+| US16     | Proteção de dados com autenticação e criptografia | 5 SP       | [Lívia] | A Fazer      | Média      |
+| US18  | Sugestões automáticas de soluções | 8 SP       | [Lívia] | A Fazer      | Média      |
 
 
 ### 🎯 **Fase 3 – Sprint Backlog**  
@@ -195,8 +194,7 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 - US01: Registro de chamado com campos obrigatórios.
 - US02: Visualização geral dos chamados.
 - US03: Atualização de status do chamado.
-- US04: Comentários internos (privados).
-- US05: Comentários externos (usuário-cliente).
+- US04: Comentários internos (privados) e  externos (usuário-cliente)
 
 ### Épico 2: Priorização, Classificação e Categorias
 
@@ -219,18 +217,16 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 
 ### Épico 6: Interface e Acessibilidade
 
-- US13: Interface adaptada para dispositivos móveis.
-- US14: Suporte à acessibilidade (leitores de tela).
+- US13: Interface gráfica.
 
 ### Épico 7: Segurança e Conta
 
-- US15: Recuperação de senha via e-mail.
-- US16: Proteção de dados com autenticação e criptografia.
+- US14: Recuperação de senha via e-mail.
+- US15: Proteção de dados com autenticação e criptografia.
 
 ### Épico 8: Inteligência Artificial e Otimizações
 
-- US17: Classificação de chamados por urgência (IA).
-- US18: Sugestões automáticas de soluções.
+- US16: Sugestões automáticas de soluções.
 
 ---
 
