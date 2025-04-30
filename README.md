@@ -47,12 +47,12 @@ O projeto segue a **Metodologia ágil SCRUM** 🏆, garantindo:
 👨‍💻 **Desenvolvedores:**  
 - [**André Takashi Prado Takamura**](https://github.com/Yashatk) `G97CJD1`  
 - [**Thiago Paulino da Silva**](https://github.com/thiagooo9) `R0158I6`  
-- [**Fabrício Santos Cavalcante**](https://github.com/Kinnube) `R095991`  
+- [**Fabrício Santos Cavalcante**](https://github.com/Kinnube) `R095991`
 - [**Tainara Lais Viana Mota**](https://github.com/TainaraViana) `C92GED9`  
 
 
 👩‍💼 **Product Owner:**  
--[**Lívia Vieira Jacó**](https://github.com/JacoLCode) `G87FED0`  
+- [**Lívia Vieira Jacó**](https://github.com/JacoLCode) `G87FED0`  
 
 🎯 **Scrum Master:**  
 - [**Tayná da Silva**](https://github.com/TaynaSilva99) `G9595H8`  
