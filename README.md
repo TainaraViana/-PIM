@@ -32,28 +32,31 @@ Além disso, **garantimos conformidade com a LGPD**, assegurando a proteção do
 - Garantir a confiabilidade e integridade dos dados.
 
 ---
+
+## 📌 Metodologia  
+
+O projeto segue a **Metodologia ágil SCRUM** 🏆, garantindo:  
+✔ Entregas rápidas e iterativas 🚀  
+✔ Ciclos contínuos de **feedback e melhorias** 🔄  
+✔ **Colaboração ativa** entre desenvolvedores e usuários 💬 
+
+---
+
 ## 👥 Equipe Scrum  
 
 👨‍💻 **Desenvolvedores:**  
 - [**André Takashi Prado Takamura**](https://github.com/Yashatk) `G97CJD1`  
 - [**Thiago Paulino da Silva**](https://github.com/thiagooo9) `R0158I6`  
 - [**Fabrício Santos Cavalcante**](https://github.com/Kinnube) `R095991`  
-- [**Lívia Vieira Jacó**](https://github.com/JacoLCode) `G87FED0`  
+- [**Tainara Lais Viana Mota**](https://github.com/TainaraViana) `C92GED9`  
+
 
 👩‍💼 **Product Owner:**  
-- [**Tainara Lais Viana Mota**](https://github.com/TainaraViana) `C92GED9`  
+-[**Lívia Vieira Jacó**](https://github.com/JacoLCode) `G87FED0`  
 
 🎯 **Scrum Master:**  
 - [**Tayná da Silva**](https://github.com/TaynaSilva99) `G9595H8`  
-
----
-
-## 📌 Metodologia  
-
-O projeto segue a **metodologia ágil Scrum** 🏆, garantindo:  
-✔ Entregas rápidas e iterativas 🚀  
-✔ Ciclos contínuos de **feedback e melhorias** 🔄  
-✔ **Colaboração ativa** entre desenvolvedores e usuários 💬  
+ 
 
 ---
 
