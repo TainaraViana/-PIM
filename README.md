@@ -73,33 +73,57 @@ O projeto segue a **Metodologia ágil SCRUM** 🏆, garantindo:
 - Segurança com autenticação robusta e criptografia de dados.
 
   
----
 ## 🔄 **Fases do Scrum**  
 
-### 📌 **Fase 1 – Product Backlog**  
-📌 **Objetivo Geral**  
-Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para melhorar a eficiência no atendimento.  
+### 📌 **Sprint 1 – Cadastro e Autenticação**  
+📌 **Objetivo**  
+Criar a estrutura básica do sistema, com foco na segurança e individualização do acesso de usuários e técnicos.  
 
-📌 **Objetivos Específicos**  
-✅ Criar um **portal de chamados** eficiente e intuitivo  
-✅ Melhorar a comunicação entre **clientes e atendentes**  
-✅ Oferecer **ferramentas avançadas de pesquisa e filtragem** 🔍  
-✅ Gerar **relatórios detalhados** de desempenho 📊  
-✅ Garantir **segurança, escalabilidade e acessibilidade**  
+📌 **Entregas**  
+- **US01**: Cadastro de usuário final com validação de dados e e-mail único.  
+- **US02**: Cadastro de técnico/atendente com credenciais específicas.  
+- **US03**: Sistema de autenticação de login seguro utilizando hash de senha.
+
+### 📌 **Sprint 2 – Gestão de Chamados e Interações**  
+📌 **Objetivo**  
+Permitir controle do ciclo de vida dos chamados com comentários e rastreabilidade.  
+
+📌 **Entregas**  
+- **US04**: Alteração de status dos chamados, com registro de auditoria.  
+- **US05**: Implementação de comentários internos (técnicos) e externos (usuários) para interações.
+
+### 📌 **Sprint 3 – Priorização e Filtros Avançados**  
+📌 **Objetivo**  
+Melhorar a organização dos chamados com prioridades e buscas personalizadas.  
+
+📌 **Entregas**  
+- **US06**: Definição de prioridade (Baixa, Média, Alta, Crítica) para triagem eficiente.  
+- **US07**: Implementação de filtros avançados por data, status, prioridade e categoria.
+
+### 📌 **Sprint 4 – Relatórios e Auditoria**  
+📌 **Objetivo**  
+Criar ferramentas de acompanhamento de performance e rastreamento de ações.  
+
+📌 **Entregas**  
+- **US08**: Implementação de log de alterações (auditoria) para rastrear mudanças nos chamados.  
+- **US09**: Geração de relatórios de desempenho com exportação em formatos PDF/CSV.
+
+### 📌 **Sprint 5 – Interface Responsiva e Acessibilidade**  
+📌 **Objetivo**  
+Tornar o sistema acessível e amigável em todos os dispositivos.  
+
+📌 **Entregas**  
+- **US10**: Criação de layout responsivo e acessível para diferentes dispositivos (mobile, desktop) e suporte a leitores de tela.
+
+### 📌 **Sprint 6 – Escalabilidade e Performance**  
+📌 **Objetivo**  
+Preparar o sistema para suportar crescimento e garantir eficiência.  
+
+📌 **Entregas**  
+- **US11**: Otimizações de performance com cache, paginação e indexação para suportar maior volume de usuários.
 
 ---
-### 🛠️ **Fase 2 – Sprint Planning**  
-🔹 Planejamento e priorização das funcionalidades essenciais  
 
----
-### 🎯 **Fase 3 – Sprint Backlog**  
-🔹 Distribuição das tarefas entre os membros da equipe  
-
----
-### 📦 **Fase 4 – Product Increment**  
-🔹 Entrega da **versão funcional** com melhorias contínuas  
-
----
 ## 🗂️ Backlog do Produto
 
 ### Épico 1: Cadastro e Autenticação
@@ -115,37 +139,37 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 - *US06: Definição de prioridade* 5 SP  
 - *US07: Filtros por data, status, prioridade e categoria* 13 SP
       
- ### Épico 4: Relatórios e Auditoria
+### Épico 4: Relatórios e Auditoria
 - *US08: Log de alterações (auditoria)* 8 SP  
 - *US09: Relatórios de desempenho* 13 SP  
 
 ### Épico 5: Interface Responsiva e Acessibilidade
 - *US10: Layout responsivo e acessível* 13 SP  
 
- ### Épico 6: Escalabilidade e Performance
- - *US11: Otimizações de performance* 13 SP
+### Épico 6: Escalabilidade e Performance
+- *US11: Otimizações de performance* 13 SP
 
- ---
+---
+
 ## 🛠️ Tecnologias Utilizadas
 
 - **Banco de Dados**: MySql 
-- **Design de Interface**: Figma  
-- **
-  
+- **Design de Interface**: Figma
+
 ---
+
 ## 🎮 Como Usar  
 
 📌 **1. Registro de Chamados**  
-🔹 Os usuários podem **abrir chamados** descrevendo o problema e definindo a prioridade  
+🔹 Os usuários podem **abrir chamados** descrevendo o problema e definindo a prioridade.
 
 📌 **2. Visualização e Gerenciamento**  
-🔹 Atendentes podem visualizar, **editar** e **alterar status** dos chamados  
+🔹 Atendentes podem visualizar, **editar** e **alterar status** dos chamados.
 
 📌 **3. Pesquisa e Filtros**  
-🔹 Filtros avançados para buscar chamados por **status, prioridade, responsável, cliente, data** 🔍  
+🔹 Filtros avançados para buscar chamados por **status, prioridade, responsável, cliente, data** 🔍
 
 📌 **4. Relatórios Detalhados**  
-🔹 **Análises completas** sobre desempenho e tempo de resposta  
+🔹 **Análises completas** sobre desempenho e tempo de resposta.
 
-
-📩 **Dúvidas ou sugestões?** Entre em contato com a equipe! 🚀  
+📩 **Dúvidas ou sugestões?** Entre em contato com a equipe! 🚀
