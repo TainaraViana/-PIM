@@ -18,7 +18,6 @@ O **Suporte Técnico Inteligente** é um sistema desenvolvido para **otimizar o 
 Além disso, **garantimos conformidade com a LGPD**, assegurando a proteção dos dados pessoais tratados no sistema. 🔒  
 
 ---
-
 ## 🎯 Objetivos
 
 - Desenvolver e implementar um portal de chamados integrado e eficiente.
@@ -32,7 +31,6 @@ Além disso, **garantimos conformidade com a LGPD**, assegurando a proteção do
 - Garantir a confiabilidade e integridade dos dados.
 
 ---
-
 ## 📌 Metodologia  
 
 O projeto segue a **Metodologia ágil SCRUM** 🏆, garantindo:  
@@ -41,7 +39,6 @@ O projeto segue a **Metodologia ágil SCRUM** 🏆, garantindo:
 ✔ **Colaboração ativa** entre desenvolvedores e usuários 💬 
 
 ---
-
 ## 👥 Equipe Scrum  
 
 👨‍💻 **Desenvolvedores:**  
@@ -59,7 +56,6 @@ O projeto segue a **Metodologia ágil SCRUM** 🏆, garantindo:
  
 
 ---
-
 ## ✅ Requisitos Funcionais
 
 - Registro de chamados com descrição, prioridade e categoria.
@@ -76,6 +72,8 @@ O projeto segue a **Metodologia ágil SCRUM** 🏆, garantindo:
 - Escalabilidade para grandes volumes de usuários e chamados.
 - Segurança com autenticação robusta e criptografia de dados.
 
+  
+---
 ## 🔄 **Fases do Scrum**  
 
 ### 📌 **Fase 1 – Product Backlog**  
@@ -89,75 +87,51 @@ Desenvolver um sistema de suporte técnico inteligente com **IA integrada** para
 ✅ Gerar **relatórios detalhados** de desempenho 📊  
 ✅ Garantir **segurança, escalabilidade e acessibilidade**  
 
+---
 ### 🛠️ **Fase 2 – Sprint Planning**  
 🔹 Planejamento e priorização das funcionalidades essenciais  
 
-
+---
 ### 🎯 **Fase 3 – Sprint Backlog**  
 🔹 Distribuição das tarefas entre os membros da equipe  
 
-| Sprint   | Período        | Destaques                                  | Responsável | Status        |
-|----------|----------------|--------------------------------------------|-------------|---------------|
-| Sprint 1 | 17/03 - 25/03 | Setup, autenticação, cadastro de chamados  |Tainara       | Em andamento  |
-| Sprint 2 | 26/03 - 03/04 | Gerenciamento, status, comentários         |Takashi       | Em andamento  |
-| Sprint 3 | 04/04 - 12/04 | Pesquisa, filtros e painéis                |Tainara       | Pendente      |
-| Sprint 4 | 13/04 - 21/04 | Classificação automática (IA)              |Tayna         | Pendente      |
-| Sprint 5 | 22/04 - 30/04 | Segurança e recuperação de senha           |Fabrício      | Pendente      |
-| Sprint 6 | 01/05 - 09/05 | Relatórios e métricas                      |Tainara       | Pendente      |
-| Sprint 7 | 10/05 - 16/05 | Interface responsiva e acessível           |Takashi       | Pendente      |
-| Sprint 8 | 17/05 - 23/05 | Testes finais, correções e deploy          |Tainara       | Pendente      |
-
+---
 ### 📦 **Fase 4 – Product Increment**  
 🔹 Entrega da **versão funcional** com melhorias contínuas  
 
-
+---
 ## 🗂️ Backlog do Produto
 
-### Épico 1: Cadastro e Gerenciamento de Chamados
+### Épico 1: Cadastro e Autenticação
+- *US01: Cadastro de Usuário Final* 5 SP  
+- *US02: Cadastro de Técnico/Atendente* 5 SP  
+- *US03: Autenticação de Login* 8 SP   
+    
+### Épico 2: Gestão de Chamados e Interações
+- *US04: Alteração de status* 8 SP  
+- *US05: Comentários internos e externos* 13 SP  
+    
+### Épico 3: Priorização e Filtros Avançados
+- *US06: Definição de prioridade* 5 SP  
+- *US07: Filtros por data, status, prioridade e categoria* 13 SP
+      
+ ### Épico 4: Relatórios e Auditoria
+- *US08: Log de alterações (auditoria)* 8 SP  
+- *US09: Relatórios de desempenho* 13 SP  
 
-- US01: Registro de chamado com campos obrigatórios.
-- US02: Visualização geral dos chamados.
-- US03: Atualização de status do chamado.
-- US04: Comentários internos (privados) e  externos (usuário-cliente)
+### Épico 5: Interface Responsiva e Acessibilidade
+- *US10: Layout responsivo e acessível* 13 SP  
 
-### Épico 2: Priorização, Classificação e Categorias
+ ### Épico 6: Escalabilidade e Performance
+ - *US11: Otimizações de performance* 13 SP
 
-- US06: Definição e edição da prioridade.
-- US07: Classificação automática de chamados (IA).
-
-### Épico 3: Pesquisa e Filtros Avançados
-
-- US08: Busca por palavra-chave ou ID.
-- US09: Filtros múltiplos por prioridade, status, data, etc.
-
-### Épico 4: Histórico e Auditoria
-
-- US10: Log completo de alterações em chamados.
-
-### Épico 5: Relatórios e Métricas
-
-- US11: Relatórios de chamados abertos/fechados por período.
-- US12: Exportação de relatórios em PDF/CSV.
-
-### Épico 6: Interface e Acessibilidade
-
-- US13: Interface gráfica.
-
-### Épico 7: Segurança e Conta
-
-- US14: Recuperação de senha via e-mail.
-- US15: Proteção de dados com autenticação e criptografia.
-
-### Épico 8: Inteligência Artificial e Otimizações
-
-- US16: Sugestões automáticas de soluções.
-
-
+ ---
 ## 🛠️ Tecnologias Utilizadas
 
 - **Banco de Dados**: MySql 
 - **Design de Interface**: Figma  
 - **
+  
 ---
 ## 🎮 Como Usar  
 
